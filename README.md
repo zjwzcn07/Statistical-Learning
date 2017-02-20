@@ -10,4 +10,4 @@ chap3：kd树与KNN
 
 chap4：朴素贝叶斯和贝叶斯估计
 
-chap5: 决策树
+chap5：决策树
