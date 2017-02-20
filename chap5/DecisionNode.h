@@ -8,6 +8,7 @@ class DecisionNode
 public:
 	DecisionNode();
 	~DecisionNode();
+	void PrintNode();
 	int feature;
 	int kind;
 	string name;
@@ -17,12 +18,6 @@ private:
 
 };
 
-DecisionNode::DecisionNode()
-{
-}
 
-DecisionNode::~DecisionNode()
-{
-}
 
 #endif

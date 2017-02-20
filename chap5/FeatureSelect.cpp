@@ -103,7 +103,7 @@ void FeatureSelect::Statistics()
 				max_gain = gain[i];
 				max_gain_kind = i;
 			}
-			gain_ratio.push_back(gain[i] / empirical_entropy);
+			//gain_ratio.push_back(gain[i] / empirical_entropy);
 		}
 
 	}
