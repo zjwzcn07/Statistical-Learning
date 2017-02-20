@@ -4,8 +4,10 @@
 
 head： 自己写的一些头文件函数
 
-chap1：感知机
+chap2：感知机
 
-chap2：kd树与最邻近查找
+chap3：kd树与KNN
 
-chap3：朴素贝叶斯和贝叶斯估计
+chap4：朴素贝叶斯和贝叶斯估计
+
+chap5: 决策树
